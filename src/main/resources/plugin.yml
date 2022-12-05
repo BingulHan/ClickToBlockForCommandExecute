@@ -1,0 +1,8 @@
+name: ClickBlockCommand
+version: '${project.version}'
+main: dev.bingulhan.clickblockcommand.ClickBlockCommand
+api-version: 1.16
+authors: [ BingulHan ]
+commands:
+  commandadd:
+    description: add command the block
